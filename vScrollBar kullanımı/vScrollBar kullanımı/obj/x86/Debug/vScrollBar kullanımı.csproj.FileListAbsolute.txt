@@ -1,0 +1,9 @@
+C:\Users\arcelik\AppData\Local\Temporary Projects\vScrollBar kullanımı\bin\Debug\vScrollBar kullanımı.exe
+C:\Users\arcelik\AppData\Local\Temporary Projects\vScrollBar kullanımı\bin\Debug\vScrollBar kullanımı.pdb
+C:\Users\arcelik\AppData\Local\Temporary Projects\vScrollBar kullanımı\obj\x86\Debug\vScrollBar_kullanımı.Form1.resources
+C:\Users\arcelik\AppData\Local\Temporary Projects\vScrollBar kullanımı\obj\x86\Debug\vScrollBar_kullanımı.Properties.Resources.resources
+C:\Users\arcelik\AppData\Local\Temporary Projects\vScrollBar kullanımı\obj\x86\Debug\vScrollBar kullanımı.csproj.GenerateResource.Cache
+C:\Users\arcelik\AppData\Local\Temporary Projects\vScrollBar kullanımı\obj\x86\Debug\vScrollBar kullanımı.exe
+C:\Users\arcelik\AppData\Local\Temporary Projects\vScrollBar kullanımı\obj\x86\Debug\vScrollBar kullanımı.pdb
+C:\Users\arcelik\documents\visual studio 2010\Projects\vScrollBar kullanımı\vScrollBar kullanımı\obj\x86\Debug\vScrollBar kullanımı.exe
+C:\Users\arcelik\documents\visual studio 2010\Projects\vScrollBar kullanımı\vScrollBar kullanımı\obj\x86\Debug\vScrollBar kullanımı.pdb
